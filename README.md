@@ -1,11 +1,3 @@
-Pedro Araújo (@epiDEN29)
-Arbovirologist, PhD.
-Technical Consultant Arboviruses
-Ministry of Health Brazil
-Python for Epidemiological Data Analysis
-pedro.arthur@saude.gov.br
+I'm Pedro Araújo (creator @epiDEN29), arbovirologist, PhD and dad of three cute girls. I work as technical consultant of arboviruses in the Ministry of Health, Brazil. Also perform analysis of epidemiological data using Python, aimed improve the arboviruses surveillance in Pará State.
 
-<!---
-epiDEN29/epiDEN29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Follow @observatorioarboviroses in Instagram!
